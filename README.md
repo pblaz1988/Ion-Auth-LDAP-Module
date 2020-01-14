@@ -1,5 +1,5 @@
 # CodeIgniter-Ion-Auth-LDAP
-Quick and dirty LDAP or Active Directory Authentication Modification for IonAuth
+Quick and dirty LDAP or Active Directory Module for IonAuth
 
 * Tested on PHP5
 * Required PHP with LDAP support
