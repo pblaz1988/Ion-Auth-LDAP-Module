@@ -1,3 +1,4 @@
+<?php
 public function login($identity, $password, $remember=FALSE)
 	{
 		$debug = false;
